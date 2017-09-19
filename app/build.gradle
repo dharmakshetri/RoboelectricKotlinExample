@@ -9,7 +9,7 @@ android {
     buildToolsVersion "26.0.1"
     defaultConfig {
         applicationId "co.prandroid.roboelectrickotlinexample"
-        minSdkVersion 15
+        minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -31,5 +31,5 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
-    testImplementation 'org.robolectric:robolectric:3.3.2'
+    testImplementation "org.robolectric:robolectric:3.3.2"
 }
