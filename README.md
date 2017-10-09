@@ -1,6 +1,7 @@
 # RoboelectricKotlinExample
 
-[Roboeletic](https://github.com/robolectric/robolectric) example in kotlin
+[Roboeletic](https://github.com/robolectric/robolectric) example in kotlin.
+Running tests on an Android emulator or device is slow! Building, deploying, and launching the app often takes a minute or more. That’s no way to do TDD. There must be a better way.
 
 ### Technology
 - Android
