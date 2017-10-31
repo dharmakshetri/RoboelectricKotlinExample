@@ -17,15 +17,10 @@ If you'd like to start a new project with Robolectric tests you can refer to dec
 #### Maven
 `
 <dependency>
-
    <groupId>org.robolectric</groupId>
-   
    <artifactId>robolectric</artifactId>
-   
    <version>3.5.1</version>
-   
    <scope>test</scope>
-   
 </dependency>
 `
 
