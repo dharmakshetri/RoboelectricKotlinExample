@@ -16,12 +16,12 @@ If you'd like to start a new project with Robolectric tests you can refer to dec
 
 #### Maven
 `
-<dependency>_
-   <groupId>org.robolectric</groupId>_
-   <artifactId>robolectric</artifactId>_
-   <version>3.5.1</version>_
-   <scope>test</scope>_
-</dependency>_
+<dependency><br/>
+   <groupId>org.robolectric</groupId><br/>
+   <artifactId>robolectric</artifactId><br/>
+   <version>3.5.1</version><br/>
+   <scope>test</scope><br/>
+</dependency><br/>
 `
 
 
